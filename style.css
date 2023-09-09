@@ -1,0 +1,19 @@
+.titre {
+    text-align: center;
+    color: gray;
+}
+
+.section_form {
+    display: flex;
+   align-items: center;
+}
+.formulaire {
+    display: flex;
+    flex-direction: column;
+    width: 10em;
+    text-align: center;
+}
+
+.formulaire_btn {
+    margin-top: 1em;
+}
